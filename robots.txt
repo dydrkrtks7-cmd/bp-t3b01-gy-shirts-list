@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magok-coin-karaoke-note.karaoke-gyodae-hub.xyz/sitemap.xml
